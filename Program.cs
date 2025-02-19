@@ -9,7 +9,7 @@ public class HelloWorld
     public static void Main(string[] args)
     {
         string name = "johns";
-        int a = 1, b = 2;
+        int a = 1, b = 2 ,c=3;
         Console.WriteLine(a + b);
         Console.WriteLine(name);
         if (name == "johnss")
